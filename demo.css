@@ -1,0 +1,157 @@
+.btn{
+	border-radius: 25px;
+	width: 142px;
+	background-color: deeppink;
+	border:none;
+}
+.navbar-light .navbar-brand {
+	color:  deeppink;
+	font-size: 50px;
+}
+.back-image{
+	background-image: url("images.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	z-index: 0;
+}
+.blur{
+	background: rgba(128,128,128, 0.7); 
+	z-index: 5;
+	height: inherit;
+	padding:55px;
+}
+.jumbotron{
+	z-index: 100;
+	background: rgba(255,20,147, 0);
+	color: white; 
+	text-align: center;
+}
+.caption:first-child{
+	text-align: center;
+}
+.jumbotron .btn{
+	border:none;
+	border-radius: 40px;
+	padding: 10px;
+	width: 250px;
+	color: deeppink;
+	background-color: white;
+	font-size: 20px;
+}
+.round-image{
+	background-image: url("images.jpeg");
+	background-size: 660px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 400px;
+	height: 320px;
+	border-radius: 80px 220px 220px 80px;
+}
+.upper-border{
+	float: right;
+	border:7px solid deeppink;
+	position: relative;
+	top: -40px;
+	left: 10px;
+	width: 380px;
+	height: 310px;
+	border-radius: 80px 220px 220px 80px;
+}
+#para1{
+	font-size: 35px;
+	color: deeppink;
+}
+#para2{
+	font-size: 15px;
+}
+.container> p{
+	font-size: 25px;
+	color: deeppink;
+	margin: auto;
+	width: 300px;
+}
+.container> h4{
+	font-size: 20px;
+	margin: auto;
+	width: 300px;
+}
+.container{
+	text-align: justify;
+}
+#upper-border{
+	float: left;
+	border:7px solid deeppink;
+	position: relative;
+	top: 2px;
+	left: 10px;
+	width: 400px;
+	height: 350px;
+	border-radius: 80px 220px 220px 80px;
+}
+#round-image{
+	background-image: url("images.jpeg");
+	background-size: 660px;
+	background-repeat: no-repeat;
+	float: left;
+	position: relative;
+	top: -68px;
+	left: 36px;
+	width: 350px;
+	height: 320px;
+	border-radius: 80px 220px 220px 80px;
+}
+.para4{
+	font-weight: bold;
+	text-align: justify;
+}
+#jum{
+	background-color: rgb(245, 243, 237);
+	color: black;
+	text-align: center;
+}
+#p1{
+	color: deeppink;
+	font-size: 50px;
+}
+img{
+	width: 900px;
+	background-size: cover;
+}
+.center{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+.h5style{
+	position: relative;
+    left: 90px;
+}
+#c1>p{
+	background-color: grey;
+	margin: 0;
+}
+.btn.btn-primary{
+	background-color: white;
+	color: deeppink;
+}
+#c2{
+	background: linear-gradient(to right, red 10%,deeppink 100%);
+}
+#c2 .lead{
+	color: white;
+	font-size: 35px;
+}
+#sub{
+	border-radius: 5px;
+	background-color: deeppink;
+	color: white;
+}
+#c4{
+	background-image: url("images.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	z-index: 0;
+	padding: 0;
+}
